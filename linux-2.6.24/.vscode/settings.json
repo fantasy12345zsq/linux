@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "user_namespace.h": "c",
+        "sched.h": "c",
+        "nsproxy.h": "c"
+    }
+}
